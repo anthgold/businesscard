@@ -10,8 +10,8 @@ This is some introductory noodling in PHP. It will create a website that takes i
 
 ## Setup/Installation Requirements
 
-* _Install PHP if you don't have a Mac: [https://www.learnhowtoprogram.com/php/getting-started-with-php/installing-php-4b2cf877-24e6-469a-89cb-68032e96da3a](Windows instructions) [https://www.atlantic.net/community/howto/install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04/](Ubuntu instructions)_
-* _[https://help.github.com/articles/cloning-a-repository/](Clone the repository)_
+* _Install PHP if you don't have a Mac: [Windows instructions](https://www.learnhowtoprogram.com/php/getting-started-with-php/installing-php-4b2cf877-24e6-469a-89cb-68032e96da3a) [Ubuntu instructions](https://www.atlantic.net/community/howto/install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04/)_
+* _[Clone the repository](https://help.github.com/articles/cloning-a-repository/)_
 * _Start the web server: $ php -S localhost:8000_
 * _Navigate to the page: [http://localhost:8000/businesscard_form.html]_
 * _Profit!_
