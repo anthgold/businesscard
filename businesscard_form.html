@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <meta charset="utf-8">
+    <title>Create a Business Card</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Please fill in the text you would like for your business card:</h1>
+
+        <form action="businesscard_display.php">  <!-- method="get"> -->
+            <div class="form-group">
+                <label for="first_name">First name</label>
+                <input id="first_name" type="text" name="first_name" class="form-control">
+            </div>
+            
+            <div class="form-group">
+                <label for="middle_initial">Middle initial</label>
+                <input id="middle_initial" type="text" name="middle_initial" class="form-control">
+            </div>
+
+            <div class="form-group">
+                <label for="last_name">Last name</label>
+                <input id="last_name" type="text" name="last_name" class="form-control">
+            </div>
+
+            <div class="form-group">
+                <label for="occupation">Occupation</label>
+                <input id="occupation" type="text" name="occupation" class="form-control">
+            </div>
+
+            <div class="form-group">
+                <label for="slogan">Slogan</label>
+                <input id="slogan" type="text" name="slogan" class="form-control">
+            </div>
+
+            <div class="form-group">
+                <label for="email">E-mail</label>
+                <input id="email" type="text" name="email" class="form-control">
+            </div>
+
+            <button type="submit" class="btn">Go!</button>
+        </form>
+    </div>
+</body>
+</html>
