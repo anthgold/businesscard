@@ -22,7 +22,7 @@ _Ignorance is bliss (None)._
 
 ## Support and contact details
 
-Questions? Concerns? Pathos? Pizza? Email: anthgold-at-gmail.com
+Questions? Concerns? Sympathy? Sushi? Email: anthgold-at-gmail.com
 
 ## Technologies Used
 
