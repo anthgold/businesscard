@@ -18,7 +18,7 @@ This is some introductory noodling in PHP. It will create a website that takes i
 
 ## Known Bugs
 
-_Ignorance is bliss (None)_
+_Ignorance is bliss (None)._
 
 ## Support and contact details
 
